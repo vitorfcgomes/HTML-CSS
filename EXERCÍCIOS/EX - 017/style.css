@@ -1,0 +1,26 @@
+@charset "UTF-8";
+main{
+    background-color: blue;
+    border-radius: 10px;
+    width: auto;
+    padding: 10px;
+    margin: center;
+    box-shadow: 5px 5px 5px black;
+}
+h1{
+    color: white;
+    text-align: justify;
+    text-shadow: 5px 5px 5px black;
+}
+h2{
+    color: white;
+    text-align: justify;
+    text-shadow: 5px 5px 5px black;
+}
+p{
+    color: white;
+    text-align: justify;
+    font-size: 1em ;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font: italic normal 1em Arial;
+}
